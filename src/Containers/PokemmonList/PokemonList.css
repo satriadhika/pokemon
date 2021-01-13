@@ -1,0 +1,60 @@
+
+
+.header{
+    text-align: left;
+    margin : 10px 10px;
+}
+
+.search{
+    background-color: #282c34;
+}
+
+.list{
+    margin : 10px 10px;
+}
+.card-value{
+  margin : 10px 10px;
+}
+
+.avatar{
+    background-color: red,
+}
+
+.icon{
+    color: 'rgba(255, 255, 255, 0.54)',
+  }
+.gridList{
+    width: 500;
+    height: 450;
+    margin : 10px 10px ;
+  }
+.formControl {
+    /* margin:; */
+    width: auto,
+  }
+.gridTile{
+  /* margin-left: 5px; */
+  /* border: 1px solid; */
+  border-radius: 10px !important;
+}
+.gridListTileBar{
+  border-radius: 10px !important;
+}
+.selectEmpty {
+    margin-top: 2px
+  }
+.pagination{
+    text-align: right !important;
+}
+.fab{
+  background-color: green !important;
+  height: fit-content !important;
+}
+.appBar{
+  background-color: #282c34 !important;
+  position: relative !important;
+}
+.title {
+  margin-left: 2px !important;
+  flex: 1 !important
+}
