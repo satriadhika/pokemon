@@ -1,4 +1,4 @@
-const DataType =[
+const dataType =[
     {
         type:"normal",
         backgroundColor:"grey",
@@ -99,4 +99,6 @@ const DataType =[
         backgroundColor:"black",
         color:"white"
     }
-]
+];
+
+export default dataType;

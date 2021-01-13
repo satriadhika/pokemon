@@ -22,3 +22,7 @@
   .grid{
       padding: 20px !important
   }
+  .fab{
+    margin: 5px !important;
+    height: fit-content !important;
+  }

@@ -46,10 +46,7 @@
 .pagination{
     text-align: right !important;
 }
-.fab{
-  background-color: green !important;
-  height: fit-content !important;
-}
+
 .appBar{
   background-color: #282c34 !important;
   position: relative !important;
